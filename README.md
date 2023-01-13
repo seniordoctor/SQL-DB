@@ -1,0 +1,3 @@
+# SQL-DB
+
+PATIKA SQL 2. ÖDEV
